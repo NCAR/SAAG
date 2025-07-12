@@ -25,10 +25,10 @@ Resources:
     Explore:
 DataAtWork:
   Tools & Applications:
-    - Title:
-      URL:
+    - Title: SAAG_readin.ipnyb
+      URL: https://github.com/NCAR/SAAG/blob/main/SAAG_readin.ipynb
       AuthorName: Erin Dougherty
-      AuthorURL:
+      AuthorURL: https://scholar.google.com/citations?user=peK6SY4AAAAJ&hl=en&oi=ao
   Publications:
     - Title: Advancing South American Water and Climate Science through Multidecadal Convection-Permitting Modeling
       URL: https://doi.org/10.1175/BAMS-D-22-0226.1.
